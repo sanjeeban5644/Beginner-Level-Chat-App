@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChatApptwo</string>
+    <string name="welcome_back">WELCOME BACK</string>
+    <string name="login_to_continue">Login To Continue</string>
+    <string name="enter_email">Enter email :</string>
+    <string name="enter_password">Enter Password :</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="add_image">Add Image</string>
+    <string name="enter_your_name">Enter Your Name :</string>
+    <string name="sign_up">sign up</string>
+
+</resources>
